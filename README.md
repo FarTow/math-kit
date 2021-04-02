@@ -4,7 +4,7 @@ A collection of math-related utilities in Java for use in various projects.
 ### Installation
 1. Clone this repository or download it as a .zip file.
    * Extract the files to desired location if downloaded as a .zip file.
-2. Run *engine.Manager* in your IDE or some other method I'm not aware of.
+2. Import the package *math-kit* package into any other project where you require these classes.
 3. Enjoy!
 
 ### Features
