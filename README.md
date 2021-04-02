@@ -1,5 +1,5 @@
 # Math Kit
-A collection of math-related utilities in Java for use on various projects.
+A collection of math-related utilities in Java for use in various projects.
 
 ### Installation
 1. Clone this repository or download it as a .zip file.
